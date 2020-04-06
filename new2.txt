@@ -1,3 +1,2 @@
 
-bu bir text dosyasıdı
-bu da yeni bir komuttur
+bu bir text dosyasıdır
