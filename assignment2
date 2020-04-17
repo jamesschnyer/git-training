@@ -1,0 +1,8 @@
+age = int(input("Please enter your age: "))
+chronic = (input("Do you have a severe chronic disease? yes/no"))
+immune = input("Is your immune system too weak? yes/no")
+
+if age > 75 and chronic =="yes" and immune == "yes":
+        print("You are in risky group")
+    else:   
+            print("You are not in risky group")
